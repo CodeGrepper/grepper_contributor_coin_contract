@@ -2,7 +2,7 @@
 Grepper is a platform to help developers solve technical problems. Grepper is powered by an amazing community of 200k(and growing fast) developers. Developers within the community contribute answers to technical problems primarily through the Grepper browser extension which allows a user to quickly add a “code snippet” as an answer to a problem they ran into and recently solved. At present the community has put in 318k answers, which together have been viewed over 62 million times.
 
 
-# Grepper Contributor Coin (GREPCC) ![GREPCC Logo](https://www.codegrepper.com/images/grepper_coin_beta_40.png) 
+# Grepper Contributor Coin (GREPCC) ![GREPCC Logo](https://www.codegrepper.com/images/grepper_coin_beta_40.png) [View on Solscan](https://solscan.io/token/6tAmokk5fqrjm4ho2JerziBsiV3hYzgJZnG6sFXZNXZs)
 The purpose of GREPCC is to provide a fun reward system as incentive for developers to contribute answers, feedback, engagement and content to the Grepper community.
  “Grepper Contributor Coin (GREPCC)” is a social token built on the Solana blockchain. 
 
@@ -36,7 +36,6 @@ Ex: Sally has inputted 20 Grepper answers, 10 of which have a quality score that
 **Bad Answers (Bottom 20%)**: At present this number is a quality score of less than ~0. This number should increase slightly as the quality score of all answers increase. 
 
 **Quality Score**: The thrust of an answers “quality score” is to get a number on how “helpful” an answer is to other developers, this is a little tricky and may be adjusted in order to better capture “helpfulness”. At present an answer's “quality score” is calculated based on a weighted number of upvotes, downvotes and copies it gets relative to views . Quality Score = (upvotes*upvoteWeight) + (copies*copyWeight) - (downvotes*downvoteWeight ) / (views) 
-
 
 ## The Grepper Shop 
 Grepper Contributor Coins can be used to redeem prizes from the Grepper Shop.
