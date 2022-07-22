@@ -2,7 +2,7 @@
 Grepper is a platform to help developers solve technical problems. Grepper is powered by an amazing community of 200k(and growing fast) developers. Developers within the community contribute answers to technical problems primarily through the Grepper browser extension which allows a user to quickly add a “code snippet” as an answer to a problem they ran into and recently solved. At present the community has put in 318k answers, which together have been viewed over 62 million times.
 
 
-# Grepper Contributor Coin (GREPCC) ![Grepper Coin Logo](https://www.codegrepper.com/images/grepper_coin_beta_40.png) 
+# Grepper Contributor Coin (GREPCC) ![GREPCC Logo](https://www.codegrepper.com/images/grepper_coin_beta_40.png) 
 The purpose of GREPCC is to provide a fun reward system as incentive for developers to contribute answers, feedback, engagement and content to the Grepper community.
  “Grepper Contributor Coin (GREPCC)” is a social token built on the Solana blockchain. 
 
